@@ -1,6 +1,6 @@
-## Olá, sou o Alisson 👋
+## Hey, I'm Alisson 👋
 
-- 🔭 Atualmente trabalho como Análise de Dados.
-- ⚡ Experiência com Power BI, Excel, SQL, Análises Estatísticas e Python.
-- 🌱 Estudando Ciência de Dados (modelos de aprendizagem de máquina, databricks e PySpark)
-- 💬 E-mail para contato: alissonaragao1@gmail.com
+- 🔭 I currently work as a Data Analyst.
+- ⚡ Experience with Power BI, Excel, SQL, Statistical Analysis and Python.
+- 🌱 I'm studying Data Science (machine learning, databricks and PySpark)
+- 💬 Contact email: alissonaragao1@gmail.com
